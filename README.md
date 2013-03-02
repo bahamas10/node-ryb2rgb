@@ -1,4 +1,4 @@
-rgb2ryb
+ryb2rgb
 =======
 
 Convert colors in JavaScript from ryb to rgb

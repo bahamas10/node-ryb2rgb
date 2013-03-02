@@ -1,6 +1,6 @@
 {
   "name": "ryb2rgb",
-  "description": "Convert colors in JavaScript from ryb to rgb"
+  "description": "Convert colors in JavaScript from ryb to rgb",
   "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
   "version": "0.0.0",
   "repository": {
